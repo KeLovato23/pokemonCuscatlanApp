@@ -29,8 +29,8 @@ Una aplicación de Pokédex hecha con **Jetpack Compose**, que permite explorar 
 
 ### 🟡 SplashScreen
 Pantalla de bienvenida animada al iniciar la app.
-![screenshot-1742794047393](https://github.com/user-attachments/assets/471d3c56-50a8-469c-9183-628acccd7215)
 
+<img src="https://github.com/user-attachments/assets/471d3c56-50a8-469c-9183-628acccd7215" alt="SplashScreen" width="300"/>
 
 ---
 
@@ -38,33 +38,29 @@ Pantalla de bienvenida animada al iniciar la app.
 Formulario para registrar perfil del entrenador Pokémon:  
 Nombre, foto, pasatiempo, fecha de nacimiento y DUI si aplica.
 
-![screenshot-1742794550854](https://github.com/user-attachments/assets/60f8599c-1792-43a4-98fb-55d2f4c082ab)
+<img src="https://github.com/user-attachments/assets/60f8599c-1792-43a4-98fb-55d2f4c082ab" alt="Trainer Setup" width="300"/>
 
 ---
 
 ### 🔵 MainScreen
 Pantalla principal con barra superior, buscador y listado de Pokémon en grid.
 
-![screenshot-1742794558940](https://github.com/user-attachments/assets/dedab99e-62b7-4b9e-a109-9e512897a7be)
-
+<img src="https://github.com/user-attachments/assets/dedab99e-62b7-4b9e-a109-9e512897a7be" alt="Main Screen" width="300"/>
 
 ---
 
 ### 🟣 DetailScreen
 Detalle de cada Pokémon: nombre, número, tipo, altura, peso, descripción y estadísticas visuales.
 
-![screenshot-1742794609644](https://github.com/user-attachments/assets/d1c3d50b-300e-4444-9569-663b3ff64385)
-
-![screenshot-1742794593065](https://github.com/user-attachments/assets/ebe97cb4-9279-4e67-9a31-09725468262a)
-
+<img src="https://github.com/user-attachments/assets/d1c3d50b-300e-4444-9569-663b3ff64385" alt="Detail Screen 1" width="300"/>
+<img src="https://github.com/user-attachments/assets/ebe97cb4-9279-4e67-9a31-09725468262a" alt="Detail Screen 2" width="300"/>
 
 ---
 
 ### 🟠 Editar Perfil
 Pantalla similar al registro para actualizar los datos del entrenador.
 
-![screenshot-1742794570897](https://github.com/user-attachments/assets/a275e303-9222-458b-8dc3-5834f781d863)
-
+<img src="https://github.com/user-attachments/assets/a275e303-9222-458b-8dc3-5834f781d863" alt="Editar Perfil" width="300"/>
 
 ---
 
