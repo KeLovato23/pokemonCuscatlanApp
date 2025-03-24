@@ -29,8 +29,8 @@ Una aplicación de Pokédex hecha con **Jetpack Compose**, que permite explorar 
 
 ### 🟡 SplashScreen
 Pantalla de bienvenida animada al iniciar la app.
+![screenshot-1742794047393](https://github.com/user-attachments/assets/471d3c56-50a8-469c-9183-628acccd7215)
 
-📷 _Aquí irá una imagen de la pantalla_
 
 ---
 
@@ -38,28 +38,33 @@ Pantalla de bienvenida animada al iniciar la app.
 Formulario para registrar perfil del entrenador Pokémon:  
 Nombre, foto, pasatiempo, fecha de nacimiento y DUI si aplica.
 
-📷 _Aquí irá una imagen de la pantalla_
+![screenshot-1742794550854](https://github.com/user-attachments/assets/60f8599c-1792-43a4-98fb-55d2f4c082ab)
 
 ---
 
 ### 🔵 MainScreen
 Pantalla principal con barra superior, buscador y listado de Pokémon en grid.
 
-📷 _Aquí irá una imagen de la pantalla_
+![screenshot-1742794558940](https://github.com/user-attachments/assets/dedab99e-62b7-4b9e-a109-9e512897a7be)
+
 
 ---
 
 ### 🟣 DetailScreen
 Detalle de cada Pokémon: nombre, número, tipo, altura, peso, descripción y estadísticas visuales.
 
-📷 _Aquí irá una imagen de la pantalla_
+![screenshot-1742794609644](https://github.com/user-attachments/assets/d1c3d50b-300e-4444-9569-663b3ff64385)
+
+![screenshot-1742794593065](https://github.com/user-attachments/assets/ebe97cb4-9279-4e67-9a31-09725468262a)
+
 
 ---
 
 ### 🟠 Editar Perfil
 Pantalla similar al registro para actualizar los datos del entrenador.
 
-📷 _Aquí irá una imagen de la pantalla_
+![screenshot-1742794570897](https://github.com/user-attachments/assets/a275e303-9222-458b-8dc3-5834f781d863)
+
 
 ---
 
